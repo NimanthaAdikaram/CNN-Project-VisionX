@@ -14,22 +14,5 @@ Welcome to the **RealWaste** project! This repository contains an end-to-end sol
 - `waste_images_dataset_split.json`: A JSON file containing the dataset split for training, validation, and testing.
 - `LICENSE`: The license for the repository.
 
-## Getting Started
-
-### Prerequisites
-
-Before running the project, ensure you have the following dependencies installed:
-
-- Python 3.x
-- TensorFlow
-- Keras
-- NumPy
-- Matplotlib
-- Seaborn
-
-To install the necessary dependencies, you can run:
-
-```bash
-pip install -r requirements.txt
 
 

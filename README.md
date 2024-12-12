@@ -1,4 +1,4 @@
-# RealWaste Project
+# RealWaste Classification Project
 
 Welcome to the **RealWaste** project! This repository contains an end-to-end solution for waste classification using deep learning models. The main file for running the application is `Main.ipynb`, and it utilizes pre-trained models for waste classification. This project aims to build a robust and accurate waste classification system.
 
